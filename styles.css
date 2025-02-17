@@ -12,3 +12,42 @@
   --color-neutral-0: #fff;
   --color-neutral-1: #333;
 }
+
+/* Reset do CSS padrão dos navegadores */
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-primary-1);
+}
+
+header {
+  width: 100%;
+  padding: 28px 8px;
+  position: sticky; /* Define a barra de navegação como fixa no topo */
+  top: 0;
+  background-color: var(--color-primary-1);
+  z-index: 3;
+}
+
+#navbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#nav_logo {
+  font-size: 24px;
+  color: var(--color-primary-6);
+}
+
+#nav_list {
+  display: flex;
+  list-style: none;
+  gap: 48px;
+}
