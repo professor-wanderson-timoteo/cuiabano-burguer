@@ -51,3 +51,15 @@ header {
   list-style: none;
   gap: 48px;
 }
+
+.nav-item a {
+  text-decoration: none;
+  color: #1d1d1dad;
+  font-weight: 600;
+}
+
+.nav-item.active a {
+  color: var(--color-neutral-1);
+  border-bottom: 3px solid var(--color-primary-4);
+}
+
