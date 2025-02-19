@@ -63,3 +63,10 @@ header {
   border-bottom: 3px solid var(--color-primary-4);
 }
 
+#mobile_btn {
+  display: none;
+}
+
+#mobile_menu {
+  display: none;
+}
