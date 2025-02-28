@@ -251,6 +251,12 @@ section {
   }
 }
 
+@media screen and (max-width: 450px){
+  #phone_button button {
+    display: none;
+  }
+}
+
 /* Section Menu */
 #menu {
   display: flex;
@@ -319,6 +325,27 @@ section {
   display: flex;
   align-items: center;
   gap: 20px;
+}
+
+@media screen and (max-width: 1170px){
+  #burguers {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .burguer {
+    width: calc(50% - 12px);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .burguer {
+    width: 100%;
+  }
+
+  #menu .section-subtitle {
+    text-align: center;
+  }
 }
 
 /* Testimonials */
