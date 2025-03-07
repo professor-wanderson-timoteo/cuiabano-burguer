@@ -1,7 +1,5 @@
-<div style="color:#228b22; display: flex; align-items: center; justify-content: center; gap: 10px; font-size: 2.5em; font-weight: bold">
-  <img  src=".github/icon-burguer.svg" alt="Icone Burguer">
-  CUIABANO BURGUER
-</div>
+
+<h1 align="center"> 🍔 CUIABANO BURGER </h1>
 
 <br>
 
