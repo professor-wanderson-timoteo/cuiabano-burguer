@@ -43,6 +43,8 @@ Acessar Site Cuiabano Burguer **[Clique aqui](https://professor-wanderson-timote
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px" height="80px"/>
   <img src=".github/scroll-reveal.jpg" width="200px" height="100px"/>
 </div>  
+ 
+<br>
 
 - **HTML5** → Estruturação do projeto
 - **CSS3** → Estilização e responsividade
