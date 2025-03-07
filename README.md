@@ -52,6 +52,8 @@ Acessar Site Cuiabano Burguer **[Clique aqui](https://professor-wanderson-timote
 - **JavaScript** → Funcionalidades interativas
 - **ScrollReveal** → Animações suaves ao rolar a página
 
+<br>
+
 ## 💻 Funcionalidades
 
 ✅ **Design responsivo** para diferentes dispositivos 📱💻  
@@ -59,6 +61,8 @@ Acessar Site Cuiabano Burguer **[Clique aqui](https://professor-wanderson-timote
 ✅ **Interface moderna e intuitiva** 🎨  
 ✅ **Código organizado e escalável** 🔧  
 ✅ **Otimizado para performance e carregamento rápido** 🚀  
+
+<br>
 
 ## 📷 Prévia do Projeto
 
@@ -81,6 +85,8 @@ Navegue até o local onde você clonou o projeto, exemplo:
 ```sh
 C:\Users\NomeDoComputador\Documents\CloneDoProjeto
 ```
+
+<br>
 
 ### 🛰️ Executando o projeto
 
@@ -109,12 +115,11 @@ Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma
 
 ## 📄 Licença
 
-Este projeto é de código aberto e pode ser utilizado para estudos e aprimoramento. 📜
-
-<br>
+<p>Este projeto é de código aberto e pode ser utilizado para estudos e aprimoramento. 📜</p>
 
 Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 
+<br>
 
 ## Autor
 
@@ -123,6 +128,8 @@ Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 <br> 
 
 💡 **Desenvolvido por [Wanderson Timóteo](https://github.com/professor-wanderson-timoteo)** </div>
+
+<br> 
 
 ## 🤝 Agradecimento
 
